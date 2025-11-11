@@ -24,10 +24,11 @@ A simple yet powerful **Calculator App** built using **Flutter**, featuring all 
 ---
 
 ## 🔹 How to Run
--git clone https://github.com/yourusername/flutter_calculator_app.git
--cd flutter_calculator_app
--flutter pub get
--flutter run
+
+- git clone https://github.com/yourusername/flutter_calculator_app.git
+- cd flutter_calculator_app
+- flutter pub get
+- flutter run
 
 Output ScreenShoot
 
